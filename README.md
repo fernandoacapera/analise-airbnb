@@ -68,7 +68,8 @@ A maioria dos imóveis tem um preço mais acessível, mas existem alguns imóvei
 
 <img width="1246" height="701" alt="image" src="https://github.com/user-attachments/assets/3f1854f4-36a2-4868-b66a-ec8a8a6fb37d" />
 
-4. Correlação entre Preço e Avaliação
+
+2. Correlação entre Preço e Avaliação
 <img width="515" height="418" alt="image" src="https://github.com/user-attachments/assets/70a120a4-3130-4abf-a71b-cdf4044df83b" />
 
 Isso significa que um preço mais alto não garante, de forma alguma, uma melhor avaliação por parte dos hóspedes. Fatores como custo-benefício e expectativas dos hóspedes provavelmente têm um papel muito mais importante.
